@@ -8,7 +8,7 @@ public class Main {
         // Using setters
         bus2.setRoute("City Center");
 
-        Commuter commuter = new Commuter("Ali", "Monthly");
+        Commuter commuter = new Commuter("Alikhan", "Monthly");
         commuter.setTicket("Student");
 
         TransportService service =
